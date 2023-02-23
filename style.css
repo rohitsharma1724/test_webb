@@ -15,6 +15,7 @@ li,a,button{
 }
 
 header{
+    background-color: #EEEEEE;
     display: flex;
     justify-content: flex-end;
     align-items: center;
@@ -69,7 +70,7 @@ footer{
     bottom: 0;
     background: linear-gradient(to left, #03118d8a, #c44318);
     color: #0a0909;
-    padding: 10px 10px 30px;
+    /* padding: 10px 10px 30px;  */
     
     border-top-left-radius: 130px;
     font-size: 13px;
@@ -185,6 +186,9 @@ hr{
     opacity: 1;
   }
 .text{
-    height: 200px;
+    height: 70px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-bottom: 20px;
     
 }
